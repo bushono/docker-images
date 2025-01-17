@@ -1,4 +1,4 @@
-FROM debian:12.7-slim AS build
+FROM debian:12.8-slim AS build
 
 ENV \
     LANG="C.UTF-8" \
